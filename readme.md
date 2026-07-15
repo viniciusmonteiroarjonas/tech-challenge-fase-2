@@ -1,5 +1,6 @@
 # Plataforma de Blogging Educacional
 
+
 > API RESTful para gerenciamento de postagens voltada a professores e alunos da rede pública de educação.
 
 ![CI/CD Pipeline](https://github.com/your-org/tech-challenge-fase-2/actions/workflows/ci.yml/badge.svg)
